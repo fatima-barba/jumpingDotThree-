@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/moblie_navigation"
+    app:startDestination="@id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.jumpingdotthree.HomePageFragment"
+        android:label="fragment_home_page"
+        tools:layout="@layout/fragment_home_page" />
+
+    <fragment
+        android:id="@+id/nav_game"
+        android:name="com.example.jumpingdotthree.HomePageFragment"
+        android:label="fragment_home_page"
+        tools:layout="@layout/fragment_game_page" />
+
+    <fragment
+        android:id="@+id/nav_end"
+        android:name="com.example.jumpingdotthree.HomePageFragment"
+        android:label="fragment_home_page"
+        tools:layout="@layout/fragment_end_game" />
+
+    <fragment
+        android:id="@+id/nav_popUp"
+        android:name="com.example.jumpingdotthree.HomePageFragment"
+        android:label="fragment_home_page"
+        tools:layout="@layout/pop_up" />
+
+</navigation>

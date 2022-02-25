@@ -3,11 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Scouting/Documents/jumpingDotThree-/app/src/main/res/layout/activity_main.xml" value="0.17028985507246377" />
-        <entry key="..\:/Users/Scouting/Documents/jumpingDotThree-/app/src/main/res/layout/fragment_end_game.xml" value="0.20416666666666666" />
-        <entry key="..\:/Users/Scouting/Documents/jumpingDotThree-/app/src/main/res/layout/fragment_game_page.xml" value="0.20416666666666666" />
-        <entry key="..\:/Users/Scouting/Documents/jumpingDotThree-/app/src/main/res/layout/fragment_home_page.xml" value="0.20416666666666666" />
-        <entry key="..\:/Users/Scouting/Documents/jumpingDotThree-/app/src/main/res/layout/fragment_store.xml" value="0.33" />
+        <entry key="..\:/Users/miman/OneDrive/Documents/Android Projects/App Apps/jumpingDotThree/app/src/main/res/drawable/button.xml" value="0.1" />
+        <entry key="..\:/Users/miman/OneDrive/Documents/Android Projects/App Apps/jumpingDotThree/app/src/main/res/drawable/icon_circle.xml" value="0.165" />
+        <entry key="..\:/Users/miman/OneDrive/Documents/Android Projects/App Apps/jumpingDotThree/app/src/main/res/layout/activity_main.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/miman/OneDrive/Documents/Android Projects/App Apps/jumpingDotThree/app/src/main/res/layout/fragment_end_game.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/miman/OneDrive/Documents/Android Projects/App Apps/jumpingDotThree/app/src/main/res/layout/fragment_game_page.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/miman/OneDrive/Documents/Android Projects/App Apps/jumpingDotThree/app/src/main/res/layout/fragment_home_page.xml" value="0.22" />
+        <entry key="..\:/Users/miman/OneDrive/Documents/Android Projects/App Apps/jumpingDotThree/app/src/main/res/layout/pop_up.xml" value="0.14130434782608695" />
       </map>
     </option>
   </component>
