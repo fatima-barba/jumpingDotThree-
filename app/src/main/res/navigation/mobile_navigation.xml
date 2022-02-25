@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation">
+
+    <fragment
+        android:id="@+id/nav_homepage"
+        android:name="com.example.jumpingdotthree.Fragments.HomePageFragment"
+        android:label="Jumping Dot Home Page"
+        tools:layout="@layout/fragment_home_page" />
+
+    <fragment
+        android:id="@+id/nav_gamepage"
+        android:name="com.example.jumpingdotthree.Fragments.GamePageFragment"
+        android:label="Jumping Dot Game Page"
+        tools:layout="@layout/fragment_game_page" />
+
+    <fragment
+        android:id="@+id/nav_endgame"
+        android:name="com.example.jumpingdotthree.Fragments.EndGameFragment"
+        android:label="Jumping Dot End Game Page"
+        tools:layout="@layout/fragment_end_game" />
+
+</navigation>

@@ -1,8 +1,10 @@
-package com.example.jumpingdotthree;
+package com.example.jumpingdotthree.Fragments;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.jumpingdotthree.R;
 
 public class HomePageFragment extends AppCompatActivity {
 
